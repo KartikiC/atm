@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\desktop2107\\atm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\desktop2107\\atm\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19,61,115,167",
+                        "endColumns": "40,52,50,60",
+                        "endOffsets": "55,109,161,223"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,96,149,200",
+                        "endColumns": "40,52,50,60",
+                        "endOffsets": "91,144,195,256"
+                    }
+                },
+                {
+                    "source": "D:\\desktop2107\\atm\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "261",
+                        "endColumns": "57",
+                        "endOffsets": "314"
+                    }
+                }
+            ]
+        }
+    ]
+}
